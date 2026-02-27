@@ -48,7 +48,7 @@ Menor Frete       | Loja 4
 
 Concluimos que a **Loja 4** deverá ser descontinuada visto que não apresenta desempenho relevante em relação às outras unidades.
 
-* (Relatório Final)[relatorio_final.md]
+* Relatório Final: [relatorio_final.md]
 
 # 😁 Contato
 
