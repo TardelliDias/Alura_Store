@@ -24,13 +24,13 @@ A Loja 1 lidera no faturamento mensal, enquanto as unidades 2 e 3 tem faturament
 
 Nas 4 unidades temos unânimidade das categorias mais vendidas. Móveis, eletrônicos e brinquedos estão no pódio, seguidos de eletrodomésticos nas lojas 1, 2 e 3. Na Loja 4 a categoria eletrodomésticos está no 5º lugar em vendas atrás da categoria esporte e lazer.
 
-![Loja 1](categoria_loja_1.png)
+![Loja 1](https://github.com/TardelliDias/Alura_Store/blob/main/Nova%20pasta/categoria_loja_1.png)
 
-![Loja 2](categoria_loja_2.png)
+![Loja 2](https://github.com/TardelliDias/Alura_Store/blob/main/Nova%20pasta/categoria_loja_2.png))
 
-![Loja 3](categoria_loja_3.png)
+![Loja 3](https://github.com/TardelliDias/Alura_Store/blob/main/Nova%20pasta/categoria_loja_3.png)
 
-![Loja 4](categoria_loja_4.png)
+![Loja 4](https://github.com/TardelliDias/Alura_Store/blob/main/Nova%20pasta/categoria_loja_4.png)
 
 Quando agrupamos os dados das 4 unidades **Alura Store**, as 8 categorias confirmam que o maior volume de vendas estão em móveis, eletrônicos e brinquedos.
 
@@ -109,6 +109,7 @@ Sua **correlação em relação ao faturamento mensal é de -1,96%** o que confi
 3.  **Falta de Destaques em Produtos Mais Vendidos:** Analisando os produtos mais vendidos, a Loja 4 não possui nenhum item de grande destaque que seja exclusivo ou que mostre um nicho de mercado forte o suficiente para justificar sua continuidade em um cenário de corte. Enquanto outras lojas têm produtos líderes mais marcantes ou nichos específicos (como o livro na Loja 2), a Loja 4 se mantém em um patamar mais genérico.
 4.  **Eficiência de Frete Insuficiente para Compensar:** O frete médio mais baixo da Loja 4 (R$ 31,28) é um ponto positivo, indicando uma possível vantagem logística ou menor custo de envio. Contudo, essa eficiência não foi suficiente para impulsionar o faturamento a patamares competitivos com as outras lojas. Sua **corelação com o faturamento é de 99,7%**, igual ao das outras lojas. Isso sugere que a vantagem logística não é um motor de crescimento forte o bastante para compensar o menor volume de vendas.
 5.  **Otimização de Recursos:** Encerrar a Loja 4 permitiria ao Senhor João realocar recursos (humanos, financeiros e de estoque) para as outras três lojas mais bem-sucedidas (especialmente a Loja 3, que é a mais promissora) e, crucialmente, direcionar o capital e o foco para o novo empreendimento. Descontinuar a unidade de menor desempenho é uma decisão lógica para maximizar o retorno sobre o investimento e garantir o sucesso do novo projeto sem comprometer as operações mais fortes da Alura Store.
+
 
 
 
