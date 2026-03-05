@@ -21,17 +21,15 @@ Por fim deveremos avaliar qual das 4 unidades deverá ser fechada e retirada do 
 
 ## 💻 Tecnologias Utilizadas
 
-* `Python`
+* `Python` - Linguagem base para o projeto
 
-* `Pandas`
+* `Pandas` - Biblioteca para análise e exploração dos dados
 
-* `Matplotlib`
+* `Seaborn Matplotlib` - Visualização gráfica dos dados
 
-* `Seaborn`
+* `Markdown` - Apresentação e documentação
 
-* `Jupyter Notebook`
-
-* `Markdown`
+* `Jupyter Notebook` - Ambiente de desenvolvimento e execução 
 
 ## 📊 Resultados
 
@@ -55,5 +53,6 @@ Concluimos que a **Loja 4** deverá ser descontinuada visto que apresenta desemp
 **Nome:** Tardelli Dias<br>
 **E-mail:** tardelli.dias@gmail.com<br>
 **LinkedIn:** https://www.linkedin.com/in/tardelli-dias/
+**Discord:** https://discord.com/users/tardellif
 - - -
 📚 ***Projeto com fins educacionais.***
